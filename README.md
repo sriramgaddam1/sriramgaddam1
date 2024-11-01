@@ -4,7 +4,7 @@ Hello and welcome to my GitHub profile! I’m Sriram, a software developer enthu
 
 ## About Me
 
-I am passionate about using my skills in both frontend and backend development to create meaningful and innovative solutions. I have experience working with technologies like HTML, CSS, JavaScript, and I enjoy building with frameworks and libraries such as React, Next.js, Node.js, and Tailwind CSS.
+I am passionate about using my skills in both frontend and backend development to create meaningful and innovative solutions. I have experience working with technologies like HTML, CSS, JavaScript, and I enjoy building with frameworks and libraries and in MERN Technologies.
 
 ## Key Projects
 
