@@ -1,7 +1,7 @@
 <h1 align="center"> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+Guys+😁;+I+am+Sriram👋;" alt="Typing SVG" />
 </h1>
-<img align="right" alt="coding" width="210" src="https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/5c45b0c8-2b85-4b5a-9e83-ab05fa1cf823">
+<img align="right" alt="coding" width="200"height="130" src="https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/5c45b0c8-2b85-4b5a-9e83-ab05fa1cf823">
 
 Hello and welcome to my GitHub profile! I’m Sriram, a software developer enthusiastic about web technologies and always eager to expand my knowledge and skills. My projects here represent my journey in development and demonstrate my capabilities across various tech stacks and solutions.
 
