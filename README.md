@@ -1,4 +1,7 @@
-# Sriram  Gaddam 🙋🏻‍♂️
+<h1 align="center"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+Guys+😁;+I+am+Sriram👋;" alt="Typing SVG" />
+</h1>
+<img align="right" alt="coding" width="210" src="https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/5c45b0c8-2b85-4b5a-9e83-ab05fa1cf823">
 
 Hello and welcome to my GitHub profile! I’m Sriram, a software developer enthusiastic about web technologies and always eager to expand my knowledge and skills. My projects here represent my journey in development and demonstrate my capabilities across various tech stacks and solutions.
 
@@ -8,13 +11,13 @@ I am passionate about using my skills in both frontend and backend development t
 
 ## Key Projects
 
-### [Youtube](https://github.com/sriramgaddam1/Youtube)
+### [Amazon](https://github.com/sriramgaddam1/Amazon)
 
-This project is a static HTML and CSS-based clone of the YouTube homepage, designed to mimic the layout, structure, and functionality of the original YouTube interface.
+This project is a web application that replicates the core functionalities of the Amazon e-commerce platform. It is built using front-end technologies like HTML, CSS, and JavaScript. The project allows users to browse a variety of products, add them to the shopping cart, and proceed with a simulated checkout process.
 
-### [X(Twitter)](https://github.com/sriramgaddam1/X-Twitter-)
+### [Shera](https://github.com/sriramgaddam1/shera)
 
-This projec is a X(Twitter) clone using Tailwind CSS, focusing on creating a responsive and modern user interface. 
+Shera is a web application designed to provide a platform for collaborative problem-solving. It connects individuals who need a shared space for activities.The platform enables collaborate in real-time, and manage tasks. The platform is built with both frontend and backend technologies, using with frameworks like React for user interface, and Node.js and Express for the backend. It integrates MongoDB as the database to store user information.
 
 ## Skills
 
@@ -23,9 +26,11 @@ This projec is a X(Twitter) clone using Tailwind CSS, focusing on creating a res
 - **Databases**: MongoDB, MySQL, Microsoft SQL Server
 - **Tools**: Git, Visual Studio Code, Eclipse
 
-## Contact
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3 align="left">Connect with me:</h3>
 
-- **Email**: [sriramgaddam801@gmail.com](mailto:sriramgaddam801@gmail.com)
-- **LinkedIn**: [Sriram Gaddam](https://www.linkedin.com/in/sriram-gaddam-a583b2278/)
+<a href="www.linkedin.com/in/sriram-gaddam-a583b2278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivendra-patel" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sriram_gaddam_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivendrapatel01250" height="30" width="40" /></a>
 
-Please feel free to explore my repositories to see my projects in action! I am open to any questions, feedback, or collaboration opportunities. Thanks for visiting, and I look forward to connecting with fellow developers and tech enthusiasts!
+Please feel free to explore my repositories to see my projects in action! 🚀 I am open to any questions 💬, feedback 🌟, or collaboration opportunities 🤝. Thanks for visiting, and I look forward to connecting with fellow developers and tech enthusiasts 👨‍💻🌍!
