@@ -1,5 +1,5 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+Guys+😁;+I+am+Sriram👋" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+Guys+😁;I+am+Sriram👋" alt="Typing SVG" />
 </h1>
 <img align="right" alt="coding" width="300" height="300" src="https://github.com/harshavardhanyadav2004/harshavardhanyadav2004/assets/138381780/5c45b0c8-2b85-4b5a-9e83-ab05fa1cf823">
 
